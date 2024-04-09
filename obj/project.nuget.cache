@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RkgMWz7Ea556oEcb4JF9WZrMcBI1Oy8ZW0JquXbA2xG2BIS5MJn1i0yS8I9pDKNbmFjuO1SeqXswY/qtvHQ8Ww==",
+  "success": true,
+  "projectFilePath": "/Users/joshuaaddai-marnu/Downloads/w1954857_Joshua Addai-Marnu_ExpensesTrackerApp/Advance-Software-Engineering/AdvanceCoursework/AdvanceCoursework.csproj",
+  "expectedPackageFiles": [
+    "/Users/joshuaaddai-marnu/.nuget/packages/microsoft.netcore.app.ref/7.0.16/microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "/Users/joshuaaddai-marnu/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.16/microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "/Users/joshuaaddai-marnu/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.16/microsoft.netcore.app.host.osx-arm64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

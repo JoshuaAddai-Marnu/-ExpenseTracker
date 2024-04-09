@@ -1,0 +1,14 @@
+C:\Users\larte\source\repos\Advance-Software-Engineering\AdvanceCoursework\bin\Debug\net7.0\AdvanceCoursework.exe
+C:\Users\larte\source\repos\Advance-Software-Engineering\AdvanceCoursework\bin\Debug\net7.0\AdvanceCoursework.deps.json
+C:\Users\larte\source\repos\Advance-Software-Engineering\AdvanceCoursework\bin\Debug\net7.0\AdvanceCoursework.runtimeconfig.json
+C:\Users\larte\source\repos\Advance-Software-Engineering\AdvanceCoursework\bin\Debug\net7.0\AdvanceCoursework.dll
+C:\Users\larte\source\repos\Advance-Software-Engineering\AdvanceCoursework\bin\Debug\net7.0\AdvanceCoursework.pdb
+C:\Users\larte\source\repos\Advance-Software-Engineering\AdvanceCoursework\obj\Debug\net7.0\AdvanceCoursework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\larte\source\repos\Advance-Software-Engineering\AdvanceCoursework\obj\Debug\net7.0\AdvanceCoursework.AssemblyInfoInputs.cache
+C:\Users\larte\source\repos\Advance-Software-Engineering\AdvanceCoursework\obj\Debug\net7.0\AdvanceCoursework.AssemblyInfo.cs
+C:\Users\larte\source\repos\Advance-Software-Engineering\AdvanceCoursework\obj\Debug\net7.0\AdvanceCoursework.csproj.CoreCompileInputs.cache
+C:\Users\larte\source\repos\Advance-Software-Engineering\AdvanceCoursework\obj\Debug\net7.0\AdvanceCoursework.dll
+C:\Users\larte\source\repos\Advance-Software-Engineering\AdvanceCoursework\obj\Debug\net7.0\refint\AdvanceCoursework.dll
+C:\Users\larte\source\repos\Advance-Software-Engineering\AdvanceCoursework\obj\Debug\net7.0\AdvanceCoursework.pdb
+C:\Users\larte\source\repos\Advance-Software-Engineering\AdvanceCoursework\obj\Debug\net7.0\AdvanceCoursework.genruntimeconfig.cache
+C:\Users\larte\source\repos\Advance-Software-Engineering\AdvanceCoursework\obj\Debug\net7.0\ref\AdvanceCoursework.dll
